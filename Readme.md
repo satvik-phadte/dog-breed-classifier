@@ -7,3 +7,5 @@ shutil
 Used Google colab for training
 
 validation accuracy is ~83.3%
+
+model has issues where its gained nothing from certain classes,accuracy from some breed was 0.000
