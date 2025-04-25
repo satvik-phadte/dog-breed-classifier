@@ -5,3 +5,5 @@ NumPy
 Matplotlib
 shutil
 Used Google colab for training
+
+validation accuracy is ~83.3%
